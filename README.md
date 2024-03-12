@@ -6,3 +6,5 @@ All models are from measurements taken by hand and may not be 100% perfect but a
 Do note that the angle of the slider legs isn't 45 degrees, please make not of the angle and the exact direction it is rotated in (44 or 46 degrees depending on how you measure it)
 
 I have included references for the stock 45g domes on some assemblies just for fun. I measured and guestimated from a dome I cut in half so it isn't perfect but gets you an idea.
+
+You can tell R1 and R2 housings apart by the circular witness marks on the bottom of the housings. R1 has two blanks circles, R2 has one with a letter indicating the mold cavity used for the bottom (wasn't identified in R1 oddly, only the top cavity was)
